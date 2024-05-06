@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalSharpPostgreSqlIntegrationExample.Application", "CrystalSharpPostgreSqlIntegrationExample.Application\CrystalSharpPostgreSqlIntegrationExample.Application.csproj", "{503B4C12-4AF7-4F94-96B6-2BFA5A9AE4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalSharpPostgreSqlIntegrationExample.Api", "CrystalSharpPostgreSqlIntegrationExample.Api\CrystalSharpPostgreSqlIntegrationExample.Api.csproj", "{48A7B19D-780B-4A4E-AB88-7143DA613278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503B4C12-4AF7-4F94-96B6-2BFA5A9AE4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503B4C12-4AF7-4F94-96B6-2BFA5A9AE4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503B4C12-4AF7-4F94-96B6-2BFA5A9AE4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503B4C12-4AF7-4F94-96B6-2BFA5A9AE4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A7B19D-780B-4A4E-AB88-7143DA613278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A7B19D-780B-4A4E-AB88-7143DA613278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A7B19D-780B-4A4E-AB88-7143DA613278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A7B19D-780B-4A4E-AB88-7143DA613278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61298362-0D9E-4DB7-93EE-51BA820F063E}
+	EndGlobalSection
+EndGlobal
